@@ -1,0 +1,15 @@
+{
+    "data": [
+      {
+        "id": 1,
+        "title": "Product 1",
+        "price": 10.99,
+        "category": "Category",
+        "rating": 4.5,
+        "description": "Description",
+        "thumbnail": "url"
+      }
+    ],
+    "totalPages": 5
+  }
+  
